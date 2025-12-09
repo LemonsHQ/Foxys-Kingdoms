@@ -6,8 +6,6 @@
 <hr />
 <p style="text-align: center;"><span style="font-size: 12px; font-family: arial, helvetica, sans-serif;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.discordapp.net/attachments/868271378720235540/1278109398425931816/2024-08-27_23.50.18.png?ex=69394262&is=6937f0e2&hm=f2cf6a2ed5fbb54c6a2b3c105a2b44f174503f62659114e0a6d1986e22532bad&=&format=webp&quality=lossless" alt="Foxon Empire Army" width="732" height="428" /></span></p>
 <hr />
-<p style="text-align: center;"><span style="font-size: 12px; font-family: arial, helvetica, sans-serif;"><br /><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cdn.discordapp.com/attachments/558014612638007306/1448069425658986527/export_1.png?ex=6939eb3e&is=693899be&hm=112732674f5a4ab23e5a39a19b4a9c57ed65a51ea28b5de066e4bc0f9565b8a7&" alt="Lay of the Land" width="737" height="415" /><br /></span></p>
-<hr />
 <p style="text-align: center;"><span style="font-size: 24px;">There are most definitely some kinks and bugs we are trying to work out. </span></p>
 <p style="text-align: center;"><span style="font-size: 24px;">As of right now&nbsp;</span><span style="font-size: 24px;">it is in a playable stable state for release!</span></p>
 <p style="text-align: center;"><span style="font-size: 24px;">Keep in mind this is a<strong> 1.7.10 Mod Pack</strong>, and is still being updated!<strong><br /></strong>For more information, try joining the Discord:</span></p>
