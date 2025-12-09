@@ -60,5 +60,8 @@ This is a <strong>1.7.10 Mod Pack</strong> and continues to receive updates.
 <img width="3840" height="2160" alt="2024-08-26_17 28 15" src="https://github.com/user-attachments/assets/63056444-3075-4945-ae4b-fd5e0ee65c1d" />
 <img width="3840" height="2160" alt="2024-08-26_16 31 21" src="https://github.com/user-attachments/assets/170bb234-f44b-4a63-a924-cd64593ea25e" />
 <img width="3840" height="2160" alt="2024-08-26_15 34 36" src="https://github.com/user-attachments/assets/476ad074-7114-49c5-a64c-911a9b392f0a" />
+<img width="1920" height="1009" alt="2024-08-11_23 00 43" src="https://github.com/user-attachments/assets/4c608ca0-c763-431e-aa51-726d4ddc003a" />
+<img width="1920" height="1009" alt="2024-08-13_14 23 16" src="https://github.com/user-attachments/assets/31d77787-9a21-40c0-b4ab-7f8cbc11af4a" />
+<img width="1920" height="1009" alt="2024-08-22_22 05 50" src="https://github.com/user-attachments/assets/925f39bd-2f73-4e78-b65f-c158e31e756e" />
 
 </p>
