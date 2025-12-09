@@ -1,22 +1,64 @@
-<html>
-<h1 style="text-align:center;"><span style="font-size: 36px;"><em><span style="text-decoration: underline;"><strong><span style="font-family: arial, helvetica, sans-serif;">Foxy's Kingdoms</span></strong></span></em></span></h1>
+<p align="center">
+A curated collection of mods for my Minecraft server,<br>
+featuring a <strong>Lord of the Rings–style RPG experience</strong>.<br>
+This modpack transforms your gameplay to better fit the<br>
+medieval fantasy world we are crafting.
+</p>
 
+---
 
-<p style="text-align: center;"><span style="font-size: 18px; font-family: arial, helvetica, sans-serif;"><span style="font-size: 24px;">I am by no means the author of these mods. However, this is a collection of mod's for my Server.</span><br /><span style="font-size: 24px;">This includes a Lord of the Rings mod styled gameplay with a lot of RPG elements.&nbsp;</span><br /><span style="font-size: 24px;">It will change your gameplay to better fit the style of server we are trying to run.</span></span></p>
-<hr />
-<p style="text-align: center;"><span style="font-size: 12px; font-family: arial, helvetica, sans-serif;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.discordapp.net/attachments/868271378720235540/1278109398425931816/2024-08-27_23.50.18.png?ex=69394262&is=6937f0e2&hm=f2cf6a2ed5fbb54c6a2b3c105a2b44f174503f62659114e0a6d1986e22532bad&=&format=webp&quality=lossless" alt="Foxon Empire Army" width="732" height="428" /></span></p>
-<hr />
-<p style="text-align: center;"><span style="font-size: 24px;">There are most definitely some kinks and bugs we are trying to work out. </span></p>
-<p style="text-align: center;"><span style="font-size: 24px;">As of right now&nbsp;</span><span style="font-size: 24px;">it is in a playable stable state for release!</span></p>
-<p style="text-align: center;"><span style="font-size: 24px;">Keep in mind this is a<strong> 1.7.10 Mod Pack</strong>, and is still being updated!<strong><br /></strong>For more information, try joining the Discord:</span></p>
-<div class="spoiler" style="text-align: center;">
-<p style="text-align: center;"><span style="font-size: 36px;">https://discord.gg/XseYrup6yU</span></p>
-</div>
-<p style="text-align: center;"><span style="font-size: 24px;">Download the latest Releases here!</span></p>
-<div class="spoiler">
-<p style="text-align: center;"><span style="font-size: 36px;">https://github.com/LemonsHQ/Foxys-Kingdoms/releases</span></p>
-<p style="text-align: center;"><span style="font-size: 24px;">Insall Guide!</span></p>
-<p style="text-align: center;"><span style="font-size: 36px;">https://github.com/LemonsHQ/Foxys-Kingdoms/blob/main/Install.md</span></p>
-</div>
-<p>&nbsp;</p>
-</html>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8cd2ce0-afc3-407a-aa9e-9b05ed9ff71e" width="750">
+</p>
+
+---
+
+<h2 align="center">🛠️ Status of the Realm</h2>
+
+<p align="center">
+There are still a few bugs and quirks we are working through,<br>
+but the modpack is currently in a <strong>stable and fully playable state!</strong><br><br>
+This is a <strong>1.7.10 Mod Pack</strong> and continues to receive updates.
+</p>
+
+---
+
+<h2 align="center">📯 Join the Discord</h2>
+
+<p align="center">
+  <a href="https://discord.gg/XseYrup6yU">
+    <strong>The World of Valdoria</strong>
+  </a>
+</p>
+
+---
+
+<h2 align="center">📜 Latest Releases</h2>
+
+<p align="center">
+  <a href="https://github.com/LemonsHQ/Foxys-Kingdoms/releases">
+    <strong>➡️ Download the Latest Release</strong>
+  </a>
+</p>
+
+<h2 align="center">🪶 Installation Guide</h2>
+
+<p align="center">
+  <a href="https://github.com/LemonsHQ/Foxys-Kingdoms/blob/main/Install.md">
+    <strong>📘 Install Instructions</strong>
+  </a>
+</p>
+
+---
+
+<p align="center">
+<em>Here are some screenshots from the server.</em>
+<img width="1920" height="1009" alt="2024-08-29_23 58 22" src="https://github.com/user-attachments/assets/f1014510-f1df-4479-ae19-3926b7cedb20" />
+<img width="3840" height="2160" alt="2024-09-09_20 22 38" src="https://github.com/user-attachments/assets/2362dc59-ba6b-45b9-ad7a-6ec6924ab74d" />
+<img width="3840" height="2160" alt="2024-09-07_20 04 50" src="https://github.com/user-attachments/assets/6264d359-d275-4b69-bcf7-0a1077f01656" />
+<img width="3840" height="2160" alt="2024-08-28_20 16 42" src="https://github.com/user-attachments/assets/5beb88a1-9e9a-408e-8b6b-b25a1374476a" />
+<img width="3840" height="2160" alt="2024-08-26_17 28 15" src="https://github.com/user-attachments/assets/63056444-3075-4945-ae4b-fd5e0ee65c1d" />
+<img width="3840" height="2160" alt="2024-08-26_16 31 21" src="https://github.com/user-attachments/assets/170bb234-f44b-4a63-a924-cd64593ea25e" />
+<img width="3840" height="2160" alt="2024-08-26_15 34 36" src="https://github.com/user-attachments/assets/476ad074-7114-49c5-a64c-911a9b392f0a" />
+
+</p>
